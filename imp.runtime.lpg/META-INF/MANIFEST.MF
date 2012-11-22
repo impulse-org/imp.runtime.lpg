@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: lpg_imp_base
+Bundle-SymbolicName: imp.runtime.lpg
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: impulse
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: lpg.runtime;bundle-version="2.0.18",
+ lpg.runtime.java;bundle-version="2.0.18",
+ org.eclipse.imp.runtime;bundle-version="0.2.1",
+ org.eclipse.core.runtime;bundle-version="3.7.0",
+ org.eclipse.jface.text;bundle-version="3.7.1",
+ org.eclipse.core.resources;bundle-version="3.7.100"
